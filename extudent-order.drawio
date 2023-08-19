@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-19T22:22:33.916Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="-5gwo_zgscHSkT1VTuzK" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-19T22:23:02.126Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="G_DGjv2d4gKCTNCs1hpj" version="21.6.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1208" dy="678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -140,7 +140,7 @@
           <mxGeometry x="368" y="323" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TOUxoj3a8XAk32HhnIup-6" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="20" y="460" width="300" height="87" as="geometry" />
+          <mxGeometry x="18" y="460" width="300" height="87" as="geometry" />
         </mxCell>
         <mxCell id="TOUxoj3a8XAk32HhnIup-2" value="Support: The user from Extudent that support platform.&lt;br&gt;User 1: The user that create order.&lt;br&gt;User 2: The user that want the order." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="TOUxoj3a8XAk32HhnIup-6">
           <mxGeometry y="40" width="270" height="47" as="geometry" />
